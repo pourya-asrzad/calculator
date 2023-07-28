@@ -1,4 +1,4 @@
-
+//wtf
 
 export function calculator(puter,answer,cal ,operators,button){
     button.addEventListener("click",(e)=>{
